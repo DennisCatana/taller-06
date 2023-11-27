@@ -4,6 +4,9 @@
 
 * _Local storage_ <br>
 
+* Guardar un Objeto en el LocalStorage<br>
+![image](https://github.com/DennisCatana/taller-06/assets/117744033/848a9c23-fa3b-49d9-9ffd-88b378a16b51)
+
 
 # Módulos<br>
 * _COMMON JS_ <br>
