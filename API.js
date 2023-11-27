@@ -1,4 +1,0 @@
-/* Fundamentos - API  */
-
-
-/* Local storage */
