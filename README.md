@@ -4,11 +4,16 @@
 
 2. _Local storage_ <br>
 - Guardar un Objeto en el LocalStorage<br>
-![image](https://github.com/DennisCatana/taller-06/assets/117744033/848a9c23-fa3b-49d9-9ffd-88b378a16b51)
+![image](https://github.com/DennisCatana/taller-06/assets/117744033/848a9c23-fa3b-49d9-9ffd-88b378a16b51)<br>
+
+- Obtener un Objeto en el LocalStorage<br>
+![image](https://github.com/DennisCatana/taller-06/assets/117744033/38945088-506a-4193-b5ff-c7828dbf2f04)
+
+- Eliminar un Objeto en el LocalStorage<br>
 
 
 # Módulos<br>
-* _COMMON JS_ <br>
+ _COMMON JS_ <br>
 
 ![imagen](https://github.com/DennisCatana/taller-06/assets/117743657/3d34cb5e-a197-4191-b7b5-40dc2b0a57ea) <br>
 
@@ -19,6 +24,6 @@ _Resultado_ <br>
 
 
 
-* _ESMODULES_ <br>
+2. _ESMODULES_ <br>
   
 ![image](https://github.com/DennisCatana/taller-06/assets/139184732/e0cb2ede-f4be-4a9a-a37e-bcea8e674626)
