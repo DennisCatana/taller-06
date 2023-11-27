@@ -10,6 +10,7 @@
 ![image](https://github.com/DennisCatana/taller-06/assets/117744033/38945088-506a-4193-b5ff-c7828dbf2f04)
 
 - Eliminar un Objeto en el LocalStorage<br>
+![image](https://github.com/DennisCatana/taller-06/assets/117744033/d45d12e3-228d-46b5-8247-e09ce09260b6)<br>
 
 
 # Módulos<br>
