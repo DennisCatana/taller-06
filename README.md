@@ -7,7 +7,7 @@
 
 ![imagen](https://github.com/DennisCatana/taller-06/assets/117743657/1a9024b5-47e3-4d00-8b47-6680a8256a9d) <br>
  
-* _Resultado_ <br>
+_Resultado_ <br>
 ![imagen](https://github.com/DennisCatana/taller-06/assets/117743657/36e11aff-52c1-4ea5-873b-94b1e5753543)
 
 
