@@ -14,7 +14,7 @@
 
 
 # Módulos<br>
- _COMMON JS_ <br>
+1.  _COMMON JS_ <br>
 
 ![imagen](https://github.com/DennisCatana/taller-06/assets/117743657/3d34cb5e-a197-4191-b7b5-40dc2b0a57ea) <br>
 
