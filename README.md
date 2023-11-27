@@ -11,5 +11,7 @@ _Resultado_ <br>
 ![imagen](https://github.com/DennisCatana/taller-06/assets/117743657/36e11aff-52c1-4ea5-873b-94b1e5753543)
 
 
-* _ESMODULES_ <br> 
+
+* _ESMODULES_ <br>
+  
 ![image](https://github.com/DennisCatana/taller-06/assets/139184732/e0cb2ede-f4be-4a9a-a37e-bcea8e674626)
