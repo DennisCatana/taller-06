@@ -1,4 +1,9 @@
 # API - Local Storage<br>
+* _Fundamentos - API_ <br>
+
+
+* _Local storage_ <br>
+
 
 # Módulos<br>
 * _COMMON JS_ <br>
