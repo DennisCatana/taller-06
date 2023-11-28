@@ -1,6 +1,7 @@
 # API - Local Storage<br>
 1.  _Fundamentos - API_ <br>
 
+![image](https://github.com/DennisCatana/taller-06/assets/150082943/2c3586ed-66cb-4c9e-bee8-cdc732991832)
 
 2. _Local storage_ <br>
 - Guardar un Objeto en el LocalStorage<br>
