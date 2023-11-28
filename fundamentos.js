@@ -12,18 +12,18 @@ const loginFunction = require('./module');
 
 loginFunction();
 
+const LIKES = 10;
 
-// module.js
-const login = () => {
-    console.log('Realizando operaciones de inicio de sesión...');
+module.exports = {
+  login,
+  LIKES
 };
 
-module.exports = login;
 
-// main.js
-const loginFunction = require('./module');
+const { login, LIKES } = require('./module');
 
-loginFunction();
+login();
+console.log(LIKES);
 
                      /* Local storage */
 
