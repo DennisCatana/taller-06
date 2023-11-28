@@ -1,28 +1,29 @@
                    /* Fundamentos - API  */
 
-//Ejemplo 1
-/*
-const login = require('./module')
+// module.js
+const login = () => {
+    console.log('Realizando operaciones de inicio de sesión...');
+};
 
-login()
-*/
+module.exports = login;
+
+// main.js
+const loginFunction = require('./module');
+
+loginFunction();
 
 
-//Ejemplo 2
+// module.js
+const login = () => {
+    console.log('Realizando operaciones de inicio de sesión...');
+};
 
-/*
-const {login, LIKES} = require('./module')
+module.exports = login;
 
-login()
-console.log(LIKES);
-*/
+// main.js
+const loginFunction = require('./module');
 
-//Ejemplo 3
-
-// const {login, LIKES} = require('./module')
-
-// login()
-// console.log(LIKES);
+loginFunction();
 
                      /* Local storage */
 
